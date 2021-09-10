@@ -1,6 +1,7 @@
 # Semantic Tagging
 
-    This file contains the basic html and css for the home page of Horiseon webpage, including Horiseon logo, naviagtion bar, hero, cards, and side bar with information. 
+    This file contains the basic html and css for the home page of Horiseon webpage, 
+    including Horiseon logo, naviagtion bar, hero, cards, and side bar with information. 
 
 
 # Authors
@@ -10,7 +11,7 @@
 
 # Screen Shot
 
-    [Preview Of Horiseon Home Webpage](assets/images/horiseon-home-page)
+    [Preview Of Horiseon Home Webpage](assets/images/horiseon-home-page.png)
 
 
     
