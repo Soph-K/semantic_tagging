@@ -11,7 +11,7 @@
 
 # Screen Shot
 
-    [Preview Of Horiseon Home Webpage](assets/images/horiseon-home-page.png)
+    [Preview Of Horiseon Home Webpage](assets/images/horiseon-homepage-screenshot.png)
 
 
     
