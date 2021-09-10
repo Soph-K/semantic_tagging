@@ -11,14 +11,14 @@
 
 # Screen Shot
 `
-    ![Preview Of Horiseon Home Webpage](assets/images/horiseon-homepage-screenshot.png)
+    [Preview Of Horiseon Home Webpage](assets/images/horiseon-homepage-screenshot.png)
 
 
     
 # Link
 `
-    ![Lets go to Your Site.](https://soph-k.github.io/semantic_tagging/)
-    ![Or Check Out The GitHub Repository](https://github.com/soph-k/semantic_tagging) 
+    [Check Out Horiseon Home Webpage](https://soph-k.github.io/semantic_tagging/)
+    [Or Check Out The GitHub Repository](https://github.com/soph-k/semantic_tagging) 
     
  
 
