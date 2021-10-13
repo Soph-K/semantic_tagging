@@ -9,14 +9,14 @@
 
 ## Authors
 `
-    Author: Sophia
-    GitHub: [soph-k](https://github.com/soph-k)
-    Version 1.1
+   - Author: Sophia
+   - GitHub: [soph-k](https://github.com/soph-k)
+   - Version 1.1
 
 
 ##  Link to Deployed Page
 `
-    [Demo](https://soph-k.github.io/semantic_tagging/)
+    [Live Demo](https://soph-k.github.io/semantic_tagging/)
 
 
 # Screen Shot
@@ -47,5 +47,3 @@
 ## Bugs
 
     There are currently no known bugs within this file, however, it is not a functional webpage yet.
-
-
