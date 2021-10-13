@@ -1,12 +1,22 @@
-# Semantic Tagging
+# Semantic Tagging 
+
+
+## Description
 
     This file contains the basic html and css for the home page of Horiseon webpage, 
     including Horiseon logo, naviagtion bar, hero, cards, and side bar with information. 
 
 
-# Authors
-    Sophia Kiani 
+## Authors
+`
+    Author: Sophia
+    GitHub: [soph-k](https://github.com/soph-k)
     Version 1.1
+
+
+##  Link to Deployed Page
+`
+    [Demo](https://soph-k.github.io/semantic_tagging/)
 
 
 # Screen Shot
@@ -14,15 +24,13 @@
     ![Preview Of Horiseon Home Webpage](assets/images/horiseon-homepage-screenshot.png)
 
 
-    
-# Link
+## Link to Repo Page
 `
-    [Check out Horiseon Home Webpage...](https://soph-k.github.io/semantic_tagging/)
-    [Or check out the GitHub repository](https://github.com/soph-k/semantic_tagging) 
+    [Repo](https://github.com/soph-k/semantic_tagging) 
     
  
 
-# Change Log
+## Change Log
 
     HTML: 
         - Added semantic tag to optimize function of the webpage.
@@ -36,7 +44,7 @@
         - Removed unnecassary repeated css selections.
 
 
-# Bugs
+## Bugs
 
     There are currently no known bugs within this file, however, it is not a functional webpage yet.
 
