@@ -1,5 +1,12 @@
 # Semantic Tagging 
 
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/soph-k/semantic_tagging"/>
+    <img src="https://img.shields.io/github/last-commit/soph-k/semantic_tagging"/>
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML-yellow"/>
+</p>
 
 ## Description
 
