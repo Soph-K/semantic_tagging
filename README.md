@@ -53,4 +53,4 @@ including Horiseon logo, naviagtion bar, hero, cards, and side bar with informat
 
 ## Bugs
 
-    There are currently no known bugs within this file, however, it is not a functional webpage yet.
+There are currently no known bugs within this file, however, it is not a functional webpage yet.
